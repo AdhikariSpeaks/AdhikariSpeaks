@@ -1,16 +1,57 @@
-## Hi there 👋
+<h1 align="center">Hi there! 👋 I'm Adwaita Adhikari (Lakshman)</h1>
+<h3 align="center">💻 Web & Mobile App Developer | Aspiring Software Engineer</h3>
 
-<!--
-**AdhikariSpeaks/AdhikariSpeaks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AdhikariSpeaks&color=blueviolet&style=flat-square" alt="Profile Views" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+- 🎓 Student at **DIPTI** (Daffodil International Professional Training Institute)
+- 🚀 Passionate about building **modern web applications** and **cross-platform mobile apps**
+- 📱 Currently diving deep into **Dart & Flutter**
+- 🛠️ Tech enthusiast who loves working with **Next.js, React Native, Node.js, and Python**
+- ☕ *Turning coffee into clean, efficient code!*
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=js,ts,python,dart,html,css" /><br><br>
+  <!-- Frameworks & Libraries -->
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,flutter,tailwind,express" /><br><br>
+  <!-- Tools & Platforms -->
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel" />
+</p>
+
+---
+
+### 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AdhikariSpeaks&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Adwaita's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdhikariSpeaks&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=AdhikariSpeaks&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="mailto:adhikari.speaks@gmail.com">
+    <img src="https://img.shields.io/badge/Email-adhikari.speaks@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
