@@ -1,5 +1,8 @@
+<p align="center">
+  <img src="./banner.png" alt="Adwaita Banner" width="100%" />
+</p>
+
 <h1 align="center">Hi there! 👋 I'm Adwaita Adhikari (Lakshman)</h1>
-<h3 align="center">💻 Web & Mobile App Developer | Aspiring Software Engineer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AdhikariSpeaks&color=blueviolet&style=flat-square" alt="Profile Views" />
@@ -37,10 +40,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdhikariSpeaks&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=AdhikariSpeaks&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
