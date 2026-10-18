@@ -1,12 +1,8 @@
 <p align="center">
-  <img src="./banner.png" alt="Adwaita Banner" width="100%" />
+  <img src="./adhikarispeaks.png" alt="Adwaita Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi there! 👋 I'm Adwaita Adhikari (Lakshman)</h1>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AdhikariSpeaks&color=blueviolet&style=flat-square" alt="Profile Views" />
-</p>
 
 ---
 
