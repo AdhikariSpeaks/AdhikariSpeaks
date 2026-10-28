@@ -32,8 +32,8 @@
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdhikariSpeaks&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" alt="Adwaita's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdhikariSpeaks&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.shion.dev/api?username=AdhikariSpeaks&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Adwaita's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=AdhikariSpeaks&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
 <p align="center">
